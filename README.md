@@ -40,5 +40,5 @@
 
 ---
 <p align="center">
-<img src="https://github.com/dnyaneshwari1999/Dnyaneshwari1999/blob/master/github-user-contribution.svg">
+<img src="https://raw.githubusercontent.com/dnyaneshwari1999/Dnyaneshwari1999/main/github-user-contribution.svg">
 </p>
