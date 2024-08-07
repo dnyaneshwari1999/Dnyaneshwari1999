@@ -19,7 +19,6 @@
 
 #### Web Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
