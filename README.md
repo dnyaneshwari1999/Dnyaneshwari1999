@@ -12,20 +12,10 @@
 ## Tech Stack 💻
 #### Languages
 ![CPP](https://img.shields.io/badge/cpp-000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-
-#### Design/Visual Tools
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 #### Database/State
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-
-#### Backend
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 #### Web Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
